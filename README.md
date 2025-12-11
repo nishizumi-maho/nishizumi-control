@@ -1,4 +1,4 @@
-# Dominant Control for iRacing
+# Nishizumi (Dominant) Control for iRacing
 
 <img width="1024" height="1024" alt="ChatGPT Image Dec 11, 2025, 12_52_14 PM" src="https://github.com/user-attachments/assets/0fd4acb4-c07f-4919-9219-4d69d3b3a0a7" />
 
