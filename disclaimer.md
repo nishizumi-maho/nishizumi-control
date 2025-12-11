@@ -150,4 +150,3 @@ Users are expected to:
 - Respect fair play and sporting ethics
 - Consider impact on the racing community
 - Use in private, non-competitive contexts
-- Be
