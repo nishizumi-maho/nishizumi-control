@@ -1,7 +1,4 @@
 # Frequently Asked Questions (FAQ)
-
-Common questions about the iRacing Control Interface.
-
 ---
 
 ## General Questions
