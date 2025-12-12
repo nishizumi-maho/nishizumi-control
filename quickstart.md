@@ -59,9 +59,9 @@ Use responsibly. You are responsible for compliance.
 ### Set Up One Control (Example: Brake Bias)
 
 1. Click the **"BrakeBias"** tab
-2. Click **"Set Increase (+)"**
+2. Click **"Set Increase (+)"** (use the same key that INCREASE this value in iRacing)
 3. Press a key you want (e.g., Numpad 8)
-4. Click **"Set Decrease (-)"**
+4. Click **"Set Decrease (-)"** (use the same key that DECREASE this value in iRacing)
 5. Press another key (e.g., Numpad 2)
 
 ### Create a Quick Preset (Optional)
